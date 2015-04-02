@@ -27,7 +27,7 @@ def get_file_contents(filename):
     return contents
 
 
-package_name = "typecheck-decorator"
+package_name = "typecheck-decorator-stable"
 
 
 class  install_with_test(stdinstall):
